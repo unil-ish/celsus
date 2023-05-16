@@ -4,9 +4,9 @@ Celsus is an AI library, whose goal is to help any avid reader, student or resea
 
 Some of Celsus's functionalities are:
 
-Create book summaries
-Extract quotes that fit a genre or keywords
-Create a list of book titles from genre or keywords
-Indicate the main themes from a book
-References/Citations
-Create a list of books when given the name of an author ...
+- Create book summaries
+- Extract quotes that fit a genre or keywords
+- Create a list of book titles from genre or keywords
+- Indicate the main themes from a book
+- References/Citations
+- Create a list of books when given the name of an author ...
