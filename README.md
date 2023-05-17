@@ -1,5 +1,3 @@
-# Celsus
-
 <div style="text-align: justify">
 Welcome to the beautiful world of Celsus Library. Our goal is to make your tasks easier.
 But which tasks are we talking about? It is a good question that you may have.
@@ -62,4 +60,3 @@ Thank you for reading and joining us in our adventure.
 
 
 (If you want to run the code itself, you will need to perform several installations. All requirements can be found in requirements.txt)
-
