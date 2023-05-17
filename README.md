@@ -21,12 +21,12 @@ Now let's talk about the different points above in more detail; such as how they
 
 Summaries are generated thanks to the use of OpenAI and langchain. With this tool, you will get generated book summaries in no time. This can help you if you have to work on a specific part of a book/document without having to look at it entirety, but still need to know more about the main themes (in case of a fiction in example here).
 
-If you are part of the academic field, in particular, quotes are vital for you. Celsus allows you to download the extracted quotes based on your queries so you can keep them saved for your personal uses.
+If you are part of the academic field, in particular, quotes are vital for you. Celsus allows you to download the extracted quotes based on your queries, so you can keep them saved for your personal uses.
 
 Much like the summaries, the key-words option allows you to get the main themes of a book. It will show as keywords that would summarise your document in a few words.
 
 In all of this, we almost forgot to present you the team, generously working to make your time better:
-Formed by four veterans of the intellectual's war of 2022, coming from the unversity of Lausanne, they organised together to survive the overflow of needs. 
+Formed by four veterans of the intellectual's war of 2022, coming from the university of Lausanne, they organised together to survive the overflow of needs. 
 Leaded by the glorious BlackRaven204, accompanied by the high mental coefficient Roz, the divine alcoholic Déesse and the mind's razor Olipper, they went into a long crusade together against the miss-organisation of the IT world.
 
 Nevertheless, you have some rules to acknowledge before using our software:
