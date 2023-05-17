@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "projetcelsus"
+version = "0.1.0"
+description = ""
+authors = ["BlackRaven204 <dimitra.savits@unil.ch>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
