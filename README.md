@@ -9,7 +9,7 @@ With our technology powered by the now well known OpenAI, you are able to:
 - Create books summaries
 - Extract quotes related to keywords
 - Create a bibliography related to genres and/or keywords
-- Obtain the main "theme" of a book
+- Obtain the main "theme" of a text
 - Receive a list of works by the same author
 
 <div style="text-align: justify">We see you coming here: "Why those options and not something else?"
@@ -29,5 +29,19 @@ Much like the summaries, this option is for you to get the main theme of a book.
 Of course, sometimes working on a single book is not enough. This is for that we are giving you the option to get other references from the same author. It will allow you to deepen your knowledge. You can upload files from your devices to get as much information as the artificial intelligence can handle.
 
 In all of this, we almost forgot to present you the team, generously working to make your time better:
+Formed by four veterans of the intellectual's war of 2022, coming from the unversity of Lausanne, they organised together to survive the overflow of needs. 
+Leaded by the glorious BlackRaven204, accompanied by the high mental coefficient Roz, the divine alcoholic Déesse and the mind's razor Olipper, they went into a long crusade together against the miss-organisation of the informatic's world.
+
+Nevertheless, you have some rules to acknowledge before using our software:
+1. You are able to use this website for all your personal purposes.
+2. The website doesn't grant you free copyright on the text you are using, even after the modification(s) through your question(s). Any unauthorised reproduction, partially or integrally, may result by legal pursuit by their authors. The Team Rocket delcine all responsabilities in case of legal prejudice.
+3. The website is using the technology of OpenAI (aka chatGPT) as educational purposes. There is no accord between our mutual societies. The website is using those ressources by the free authorisation allowed by their respective creators.
+4. The Team Rocket is not responsible for the content of your uploaded files. Any disturbance resulting from your files can not be reproached to Project Celsus.
+5. Project Celsus and the Team Rocket decline all responsibility if the answer of the software are inaccurate or incomplete.
+6. You may use as you wish the results of your researches, tho there is no guarantee of the accuracy of the answers.
+7. You can use the code of this website for your own project, as long as you mention it, and you mention the ressources we used ourselves to product our software.
+
+Otherwise, if you want to check our ressources, all the links we used during the project (tho a lot are not in the final project) are in the webpage of the software, under the "links" section.
+
+Thank you for reading and joining us in our adventure.
 </div>
-! [Alt Team Rocket Logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Funiverseconquest.fandom.com%2Fwiki%2FTeam_Rocket&psig=AOvVaw3PJ3u4Ci_SW1eJiJj1rYbc&ust=1684410482949000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIizwpak_P4CFQAAAAAdAAAAABAZ)
