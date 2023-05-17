@@ -1,6 +1,7 @@
 # Celsus
 
-<div style="text-align: justify">Welcome to the beautiful world of Celsus Library. Our goal is to make your tasks easier.
+<div style="text-align: justify">
+Welcome to the beautiful world of Celsus Library. Our goal is to make your tasks easier.
 But which tasks are we talking about? It is a good question that you may have.
 Here, at the Celsus Library, we are, as the name may let you guess it, dealing with textual corpora.
 With our technology powered by the now well known OpenAI, you are able to:
@@ -12,7 +13,8 @@ With our technology powered by the now well known OpenAI, you are able to:
 - Obtain the main "theme" of a text
 - Receive a list of works by the same author
 
-<div style="text-align: justify">We see you coming here: "Why those options and not something else?"
+<div style="text-align: justify">
+We see you coming here: "Why those options and not something else?"
 
 In a simple way, our website is here to help you identified basics elements to work on a book such as summaries to guide you through your lecture, and a tool of text extraction to get the main clue you could be looking for.
 
