@@ -30,4 +30,4 @@ Of course, sometimes working on a single book is not enough. This is for that we
 
 In all of this, we almost forgot to present you the team, generously working to make your time better:
 </div>
-! (https://www.google.com/url?sa=i&url=https%3A%2F%2Funiverseconquest.fandom.com%2Fwiki%2FTeam_Rocket&psig=AOvVaw3PJ3u4Ci_SW1eJiJj1rYbc&ust=1684410482949000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIizwpak_P4CFQAAAAAdAAAAABAZ)
+! [Alt Team Rocket Logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Funiverseconquest.fandom.com%2Fwiki%2FTeam_Rocket&psig=AOvVaw3PJ3u4Ci_SW1eJiJj1rYbc&ust=1684410482949000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIizwpak_P4CFQAAAAAdAAAAABAZ)
