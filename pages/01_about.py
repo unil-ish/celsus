@@ -23,21 +23,3 @@ def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
     return base64.b64encode(data).decode()
-
-image_filename = r'Images\team_rocket_logo.jpg'
-image_base64 = get_base64_of_bin_file(image_filename)
-
-st.markdown(
-    f"""
-    <style>
-    .center {{
-        display: flex;
-        justify-content: center;
-    }}
-    </style>
-    <div class="center">
-        <img src="data:image/jpg;base64,{image_base64}" alt="Image" width="200">
-    </div>
-    """,
-    unsafe_allow_html=True
-)
