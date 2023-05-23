@@ -43,3 +43,23 @@ Otherwise, if you want to check our resources, all the links we used during the 
 
 Thank you for reading and joining us in our adventure.
 </div>
+
+## Procedure
+  
+1. Find your API key.  
+
+![api_key_celsus](https://github.com/BlackRaven204/Celsus/assets/77760910/12b8fc6b-6cfb-4c7b-a56d-8df5cebf2ecc)
+
+2. Enter key, PDF file and question.
+
+![celsus_enter_doc](https://github.com/BlackRaven204/Celsus/assets/77760910/8a225707-fdda-4420-a346-cef19c77e2f5)
+
+3. Copy your answer and enjoy !
+
+<img width="578" alt="celsus_answer" src="https://github.com/BlackRaven204/Celsus/assets/77760910/03deaa44-6f77-462e-a57e-c98d2ddddc81">
+
+
+
+
+(If you want to run the code itself, you will need to perform several installations : streamlit, langchain, and pyPDF2)
+
