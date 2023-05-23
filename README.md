@@ -61,5 +61,5 @@ Thank you for reading and joining us in our adventure.
 
 
 
-(If you want to run the code itself, you will need to perform several installations : streamlit, langchain, and pyPDF2)
+(If you want to run the code itself, you will need to perform several installations. All requirements can be found in requirements.txt)
 
