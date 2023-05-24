@@ -7,9 +7,8 @@ Here, at the Celsus Library, we are, as the name may let you guess it, dealing w
 With the use of OpenAI and langchain, we managed to create an AI helper that can assist you with the following tasks:
 </div>
 
-- Create books summaries
+- Create documents summaries
 - Extract quotes related to keywords
-- Create a bibliography related to genres and/or keywords
 - Obtain the main "theme" of a text
 
 <div style="text-align: justify">
@@ -19,7 +18,7 @@ To simplify our answer, Celsus is here to help you identify basic elements on a 
 
 Now let's talk about the different points above in more detail; such as how they work, or in which ways you can use those options.
 
-Summaries are generated thanks to the use of OpenAI and langchain. With this tool, you will get generated book summaries in no time. This can help you if you have to work on a specific part of a book/document without having to look at it entirety, but still need to know more about the main themes (in case of a fiction in example here).
+Summaries are generated thanks to the use of OpenAI and langchain (in short). With this tool, you will get generated book summaries in no time. This can help you if you have to work on a specific part of a book/document without having to look at it entirety, but still need to know more about the main themes (in case of a fiction in example here).
 
 If you are part of the academic field, in particular, quotes are vital for you. Celsus allows you to download the extracted quotes based on your queries, so you can keep them saved for your personal uses.
 
@@ -34,10 +33,11 @@ Nevertheless, you have some rules to acknowledge before using our software:
 2. You are able to use this website for all your personal purposes.
 3. The website doesn't grant you free copyright on the documents you are using, even after modifying the generated answers. Any unauthorised reproduction, partially or integrally, may result by legal pursuit by their authors. The Team Rocket declines all responsibilities in case of legal prejudice.
 4. The website is using the technology of OpenAI (aka chatGPT) for educational purposes. There is no accord between our mutual societies. The website is using those resources by the free authorisation allowed by their respective creators.
-5. The Team Rocket is not responsible for the content of your uploaded files. Any disturbances resulting from your files can not be reproached to Project Celsus.
-6. Project Celsus and the Team Rocket decline all responsibility if the answers of the software are inaccurate or incomplete.
-7. You may make free use of the generated results, nonetheless there is no guarantee of the accuracy of the answers.
-8. You can use the code of this website for your own project, as long as you credit us, and you mention the resources we used ourselves to create our project.
+5. All the others ressources included into our software are under the same rule as above.
+6. The Team Rocket is not responsible for the content of your uploaded files. Any disturbances resulting from your files can not be reproached to Project Celsus.
+7. Project Celsus and the Team Rocket decline all responsibility if the answers of the software are inaccurate or incomplete.
+8. You may make free use of the generated results, nonetheless there is no guarantee of the accuracy of the answers.
+9. You can use the code of this website for your own project, as long as you credit us, and you mention the resources we used ourselves to create our project.
 
 Otherwise, if you want to check our resources, all the links we used during the project (N.B: not all have been used in the final project) are in the webpage of the software, under the "links" section.
 
