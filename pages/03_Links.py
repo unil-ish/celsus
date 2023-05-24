@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 from pathlib import Path
 
 # Page containing all useful links

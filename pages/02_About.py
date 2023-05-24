@@ -1,7 +1,5 @@
 import streamlit as st
 import base64
-import os
-from PIL import Image
 from pathlib import Path
 
 # Page containing all the information about Celsus

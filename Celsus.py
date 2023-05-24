@@ -84,7 +84,7 @@ with container:
     # The following lines were greatly influenced by
     # https://colab.research.google.com/#fileId=https%3A//huggingface.co/spaces/sophiamyang/Panel_PDF_QA/blob/main/LangChain_QA_Panel_App.ipynb
     submit_button = st.button("Submit Question.")
-    if submit_button:
+    if submit_button and api_key:
         os.environ["OPENAI_API_KEY"] = api_key
         if file:
             with tempfile.TemporaryDirectory() as temp_dir:
