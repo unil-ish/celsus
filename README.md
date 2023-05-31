@@ -1,3 +1,6 @@
+# Celsus
+
+## Introduction
 <div style="text-align: justify">
 Welcome to the beautiful world of Celsus Library. Our goal is to make your tasks easier.
 But which tasks are we talking about? It is a good question that you may have.
@@ -25,7 +28,8 @@ Much like the summaries, the key-words option allows you to get the main themes 
 In all of this, we almost forgot to present you the team, generously working to make your time better:
 Formed by four veterans of the intellectual's war of 2022, coming from the university of Lausanne, they organised together to survive the overflow of needs. 
 Leaded by the glorious BlackRaven204, accompanied by the high mental coefficient Roz, the divine alcoholic Déesse and the mind's razor Olipper, they went into a long crusade together against the miss-organisation of the IT world.
-
+  
+## Terms of Use
 Nevertheless, you have some rules to acknowledge before using our software:
 1. You must use your own API-key from OpenAI to be able to use our software.
 2. You are able to use this website for all your personal purposes.
@@ -59,4 +63,5 @@ Thank you for reading and joining us in our adventure.
 
 
 
-(If you want to run the code itself, you will need to perform several installations. All requirements can be found in requirements.txt)
+<sub> If you want to run the code itself, you will need to perform several installations. All requirements can be found in requirements.txt) </sub>
+
